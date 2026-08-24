@@ -199,7 +199,7 @@ The [`Evidence`](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/tr
 | EV13 | JCoach comparison with MAC address         |
 | EV14 | TCP stream proofing                        |
 
-## 📄 Project Report
+## 📄 Network Forensic Report
 
 The complete forensic investigation is documented in:
 
@@ -256,6 +256,6 @@ The findings should not be interpreted as evidence concerning real individuals o
 
 ## 📚 References
 
-The complete methodology, evidence references, packet analysis and conclusions are available in the project report.
+The complete methodology, evidence references, packet analysis and conclusions are available in the Network Forensic report.
 
 ---
