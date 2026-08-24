@@ -178,7 +178,7 @@ The report ultimately correlated these findings with the Chemistry 109 class lis
 
 ## 📁 Evidence
 
-The `[Evidence](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/tree/main/Evidence)` directory contains the supporting forensic artefacts referenced throughout the report.
+The [`Evidence`](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/tree/main/Evidence) directory contains the supporting forensic artefacts referenced throughout the report.
 
 ### Evidence Files
 
@@ -203,7 +203,7 @@ The `[Evidence](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/tre
 
 The complete forensic investigation is documented in:
 
-`[Project Report.pdf](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/blob/main/Project%20Report.pdf)`
+[`Project Report.pdf`](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/blob/main/Project%20Report.pdf)
 
 The report includes:
 
