@@ -203,7 +203,7 @@ The [`Evidence`](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/tr
 
 The complete forensic investigation is documented in:
 
-[`Project Report.pdf`](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/blob/main/Project%20Report.pdf)
+[`Network Forensic Report.pdf`](https://github.com/NithilaLD/Network-Forensics-PCAP-Analysis/blob/main/Network%20Forensic%20Report.pdf)
 
 The report includes:
 
