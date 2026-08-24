@@ -1,4 +1,4 @@
-# Network Forensics & PCAP Analysis – Incident Investigation
+# Network Forensics & PCAP Analysis - Incident Investigation
 
 A network forensic investigation of a simulated cyber-harassment incident involving the analysis of a network packet capture (`XYZ.pcap`). The project demonstrates the use of network forensic techniques to trace suspicious activity, correlate network identifiers, reconstruct an activity timeline, and identify the device and user associated with the malicious activity.
 
