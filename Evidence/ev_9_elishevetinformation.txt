@@ -1,0 +1,40 @@
+No.     Time           Source                Destination           Protocol Length Info
+  16744 6780.439281    192.168.1.64          74.125.19.19          HTTP     1141   GET /mail/ HTTP/1.1 
+
+Frame 16744: 1141 bytes on wire (9128 bits), 1141 bytes captured (9128 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:61 (00:1d:d9:2e:4f:61), Dst: Commscope_99:98:68 (00:1d:6b:99:98:68)
+    Destination: Commscope_99:98:68 (00:1d:6b:99:98:68)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:61 (00:1d:d9:2e:4f:61)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 0]
+    Frame check sequence: 0x2139cb73 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 192.168.1.64, Dst: 74.125.19.19
+Transmission Control Protocol, Src Port: 42634, Dst Port: 80, Seq: 1, Ack: 1, Len: 1071
+Hypertext Transfer Protocol
+    GET /mail/ HTTP/1.1\r\n
+    Host: mail.google.com\r\n
+    User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16\r\n
+    Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5\r\n
+    Accept-Language: en-us,en;q=0.5\r\n
+    Accept-Encoding: gzip,deflate\r\n
+    Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7\r\n
+    Keep-Alive: 300\r\n
+    Connection: keep-alive\r\n
+     […]Cookie: __utmx=173272373.; __utmz=173272373.1205084010.5.2.utmccn=(referral)|utmcsr=netbnr.net|utmcct=/redirect.html|utmcmd=referral; __utma=173272373.1638222975.1182389317.1205084010.1205463613.6; gmailchat=elishevet@gmail.com/94516
+        Cookie pair: __utmx=173272373.
+        Cookie pair: __utmz=173272373.1205084010.5.2.utmccn=(referral)|utmcsr=netbnr.net|utmcct=/redirect.html|utmcmd=referral
+        Cookie pair: __utma=173272373.1638222975.1182389317.1205084010.1205463613.6
+        Cookie pair: gmailchat=elishevet@gmail.com/945167
+        Cookie pair: NID=8=PIHrm3_gKF3dFvrqD-o2IKj9qhB7at-vf-cHMDJsqV-Xk9jjDmnCcFgTaLXSA12hWxqIodI0DF5ODyrbV7gK1XLNz0vC3YGls9vpVe1U08b6o-gLp4Of5qxBiK--Exvf
+        Cookie pair: __utmz=173272373.1206412915.1.1.utmccn=(referral)|utmcsr=video.google.com|utmcct=/videouploadsuccess|utmcmd=referral
+        Cookie pair: PREF=ID=f374cfeeaf2ab8f5:TM=1178453904:LM=1202668046:GM=1:S=QZK9Q3YP8BqaQv6A
+        Cookie pair: rememberme=false
+        Cookie pair: __utma=173272373.1611040392.1206412915.1206412915.1206412915.1
+    \r\n
+    [Response in frame: 16746]
+    [Full request URI: http://mail.google.com/mail/]

@@ -1,0 +1,18 @@
+No.     Time           Source                Destination           Protocol Length Info
+  74920 14845.565305   192.168.15.4          209.73.187.220        HTTP     1130   GET /search/search_result;_ylt=A9FJui4Od4VIL5QANivD7BR.;_ylv=3?p=can+I+go+to+jail+for+harassing+my+teacher%3F HTTP/1.1 
+
+Frame 74920: 1130 bytes on wire (9040 bits), 1130 bytes captured (9040 bits)
+Ethernet II, Src: Apple_e2:c0:ce (00:17:f2:e2:c0:ce), Dst: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+    Destination: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xb04fec5f [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 192.168.15.4, Dst: 209.73.187.220
+Transmission Control Protocol, Src Port: 35650, Dst Port: 80, Seq: 1, Ack: 1, Len: 1060
+Hypertext Transfer Protocol

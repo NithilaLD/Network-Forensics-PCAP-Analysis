@@ -1,0 +1,944 @@
+No.     Time           Source                Destination           Protocol Length Info
+  50500 12768.503618   140.247.62.34         192.168.15.4          TCP      78     8000 → 34526 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351651998 TSecr=734633743 WS=128
+
+Frame 50500: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xd17be560 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34526, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50513 12797.547524   140.247.62.34         192.168.15.4          TCP      78     8000 → 34528 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351681047 TSecr=734634033 WS=128
+
+Frame 50513: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x1ef83962 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50516 12799.258154   140.247.62.34         192.168.15.4          TCP      70     8000 → 34528 [ACK] Seq=1 Ack=6 Win=5888 Len=0 TSval=351682757 TSecr=734634051
+
+Frame 50516: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xb4703d7b [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 1, Ack: 6, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50519 12817.560003   140.247.62.34         192.168.15.4          TCP      70     8000 → 34526 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351701063 TSecr=734634233
+
+Frame 50519: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x832e16e0 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34526, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50554 12823.804845   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34526 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351707308 TSecr=734634233
+
+Frame 50554: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x4f3e57c7 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34526, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50557 12827.198965   140.247.62.34         192.168.15.4          TCP      78     8000 → 34544 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351710703 TSecr=734634330 WS=128
+
+Frame 50557: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xe3b77500 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34544, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50873 12853.300279   140.247.62.34         192.168.15.4          TCP      78     8000 → 34554 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351736809 TSecr=734634590 WS=128
+
+Frame 50873: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xa0b5fb50 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50876 12853.389197   140.247.62.34         192.168.15.4          TCP      70     8000 → 34554 [ACK] Seq=1 Ack=119 Win=5888 Len=0 TSval=351736897 TSecr=734634591
+
+Frame 50876: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x94c1d526 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 1, Ack: 119, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50877 12853.506156   140.247.62.34         192.168.15.4          TLSv1    1466   Server Hello
+
+Frame 50877: 1466 bytes on wire (11728 bits), 1466 bytes captured (11728 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x8d730e73 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 1, Ack: 119, Len: 1396
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50878 12853.508100   140.247.62.34         192.168.15.4          TCP      1466   8000 → 34554 [ACK] Seq=1397 Ack=119 Win=5888 Len=1396 TSval=351737011 TSecr=734634591 [TCP PDU reassembled in 50882]
+
+Frame 50878: 1466 bytes on wire (11728 bits), 1466 bytes captured (11728 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xc2eccf72 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 1397, Ack: 119, Len: 1396
+
+No.     Time           Source                Destination           Protocol Length Info
+  50879 12853.508113   140.247.62.34         192.168.15.4          TCP      174    8000 → 34554 [PSH, ACK] Seq=2793 Ack=119 Win=5888 Len=104 TSval=351737011 TSecr=734634591 [TCP PDU reassembled in 50882]
+
+Frame 50879: 174 bytes on wire (1392 bits), 174 bytes captured (1392 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x42cd160a [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 2793, Ack: 119, Len: 104
+
+No.     Time           Source                Destination           Protocol Length Info
+  50882 12853.596708   140.247.62.34         192.168.15.4          TLSv1    764    Certificate, Server Key Exchange, Server Hello Done
+
+Frame 50882: 764 bytes on wire (6112 bits), 764 bytes captured (6112 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x63ffbe9e [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 2897, Ack: 119, Len: 694
+[4 Reassembled TCP Segments (3100 bytes): #50877(1317), #50878(1396), #50879(104), #50882(283)]
+Transport Layer Security
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50885 12853.730657   140.247.62.34         192.168.15.4          TCP      70     8000 → 34554 [ACK] Seq=3591 Ack=317 Win=6912 Len=0 TSval=351737239 TSecr=734634595
+
+Frame 50885: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xea0a0793 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3591, Ack: 317, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50886 12853.744678   140.247.62.34         192.168.15.4          TLSv1    129    Change Cipher Spec, Encrypted Handshake Message
+
+Frame 50886: 129 bytes on wire (1032 bits), 129 bytes captured (1032 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x1f0998a7 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3591, Ack: 317, Len: 59
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50888 12853.830492   140.247.62.34         192.168.15.4          TLSv1    139    Application Data
+
+Frame 50888: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x2055e7ce [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3650, Ack: 317, Len: 69
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50891 12858.658655   140.247.62.34         192.168.15.4          TLSv1    139    Application Data
+
+Frame 50891: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x5833664b [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3719, Ack: 423, Len: 69
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50894 12862.737342   140.247.62.34         192.168.15.4          TLSv1    123    Application Data
+
+Frame 50894: 123 bytes on wire (984 bits), 123 bytes captured (984 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x7da3fe99 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3788, Ack: 497, Len: 53
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50897 12864.753338   140.247.62.34         192.168.15.4          TLSv1    139    Application Data
+
+Frame 50897: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xd1ecf44d [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3841, Ack: 571, Len: 69
+Transport Layer Security
+
+No.     Time           Source                Destination           Protocol Length Info
+  50900 12865.511980   140.247.62.34         192.168.15.4          TCP      70     8000 → 34554 [FIN, ACK] Seq=3910 Ack=572 Win=6912 Len=0 TSval=351749023 TSecr=734634712
+
+Frame 50900: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x5a1cd62c [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3910, Ack: 572, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50902 12869.599230   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34554 [FIN, ACK] Seq=3910 Ack=572 Win=6912 Len=0 TSval=351753111 TSecr=734634712
+
+Frame 50902: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x92a3d2f3 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34554, Seq: 3910, Ack: 572, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50907 12873.686710   140.247.62.34         192.168.15.4          TCP      78     8000 → 34556 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351757198 TSecr=734634794 WS=128
+
+Frame 50907: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xcc3fddb3 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34556, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50927 12895.023246   140.247.62.34         192.168.15.4          TCP      78     8000 → 34558 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351778538 TSecr=734635007 WS=128
+
+Frame 50927: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xc1cc1485 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34558, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50929 12895.024968   140.247.62.34         192.168.15.4          TCP      78     8000 → 34560 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351778540 TSecr=734635007 WS=128
+
+Frame 50929: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xcacc78e6 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34560, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50932 12901.836723   140.247.62.34         192.168.15.4          TCP      70     8000 → 34558 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351785353 TSecr=734635075
+
+Frame 50932: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xb7a39e9b [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34558, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50934 12902.300256   140.247.62.34         192.168.15.4          TCP      70     8000 → 34560 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351785817 TSecr=734635080
+
+Frame 50934: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xc4994867 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34560, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50936 12902.895523   140.247.62.34         192.168.15.4          TCP      70     8000 → 34556 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351786412 TSecr=734635086
+
+Frame 50936: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xc98684e2 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34556, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50938 12903.371491   140.247.62.34         192.168.15.4          TCP      70     8000 → 34544 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351786888 TSecr=734635091
+
+Frame 50938: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x3b924024 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34544, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50963 12907.503236   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34558 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351791021 TSecr=734635075
+
+Frame 50963: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xe3fc8606 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34558, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50965 12907.967781   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34560 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351791485 TSecr=734635080
+
+Frame 50965: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x16dc17e7 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34560, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50970 12908.562255   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34556 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351792080 TSecr=734635086
+
+Frame 50970: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x58b17b1d [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34556, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50979 12909.577463   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34544 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=351793095 TSecr=734635091
+
+Frame 50979: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xba43c3f4 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34544, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  50982 12920.820732   140.247.62.34         192.168.15.4          TCP      78     8000 → 34580 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=351804340 TSecr=734635265 WS=128
+
+Frame 50982: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xf32627be [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34580, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51083 13099.258187   140.247.62.34         192.168.15.4          TCP      70     8000 → 34528 [FIN, ACK] Seq=1 Ack=6 Win=5888 Len=0 TSval=351982807 TSecr=734634051
+
+Frame 51083: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x90cb2e70 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 1, Ack: 6, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51084 13099.258196   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34528 [FIN, ACK] Seq=1 Ack=6 Win=5888 Len=0 TSval=351982807 TSecr=734634051
+
+Frame 51084: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x90cb2e70 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 1, Ack: 6, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51085 13099.258467   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34528 [FIN, ACK] Seq=1 Ack=6 Win=5888 Len=0 TSval=351982807 TSecr=734634051
+
+Frame 51085: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x90cb2e70 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 1, Ack: 6, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51086 13099.258731   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34528 [FIN, ACK] Seq=1 Ack=6 Win=5888 Len=0 TSval=351982807 TSecr=734634051
+
+Frame 51086: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x90cb2e70 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 1, Ack: 6, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51087 13099.258929   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34528 [FIN, ACK] Seq=1 Ack=6 Win=5888 Len=0 TSval=351982807 TSecr=734634051
+
+Frame 51087: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x90cb2e70 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 1, Ack: 6, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51094 13099.349639   140.247.62.34         192.168.15.4          TCP      70     8000 → 34528 [ACK] Seq=2 Ack=7 Win=5888 Len=0 TSval=351982898 TSecr=734637048
+
+Frame 51094: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x526998e3 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 2, Ack: 7, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51095 13099.350157   140.247.62.34         192.168.15.4          TCP      70     [TCP Dup ACK 51094#1] 8000 → 34528 [ACK] Seq=2 Ack=7 Win=5888 Len=0 TSval=351982900 TSecr=734637048
+
+Frame 51095: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x0048224e [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 2, Ack: 7, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51096 13099.350928   140.247.62.34         192.168.15.4          TCP      70     [TCP Dup ACK 51094#2] 8000 → 34528 [ACK] Seq=2 Ack=7 Win=5888 Len=0 TSval=351982900 TSecr=734637048
+
+Frame 51096: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x0048224e [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 2, Ack: 7, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51098 13099.352381   140.247.62.34         192.168.15.4          TCP      70     [TCP Dup ACK 51094#3] 8000 → 34528 [ACK] Seq=2 Ack=7 Win=5888 Len=0 TSval=351982902 TSecr=734637048
+
+Frame 51098: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xf1aa649c [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34528, Seq: 2, Ack: 7, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51188 13220.910938   140.247.62.34         192.168.15.4          TCP      70     8000 → 34580 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352104480 TSecr=734638263
+
+Frame 51188: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xa4c95633 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34580, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51189 13226.882357   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34580 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352110452 TSecr=734638263
+
+Frame 51189: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x2ae4df75 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34580, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51192 13238.144624   140.247.62.34         192.168.15.4          TCP      78     8000 → 34598 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=352121717 TSecr=734638435 WS=128
+
+Frame 51192: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x75b0051b [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34598, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51206 13245.896180   140.247.62.34         192.168.15.4          TCP      78     8000 → 34600 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=352129469 TSecr=734638512 WS=128
+
+Frame 51206: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x098d0cc8 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34600, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51207 13245.897431   140.247.62.34         192.168.15.4          TCP      78     8000 → 34602 [SYN, ACK] Seq=0 Ack=1 Win=5792 Len=0 MSS=1408 SACK_PERM TSval=352129471 TSecr=734638512 WS=128
+
+Frame 51207: 78 bytes on wire (624 bits), 78 bytes captured (624 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xa4b49a8d [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34602, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51298 13346.758077   140.247.62.34         192.168.15.4          TCP      70     8000 → 34600 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352230348 TSecr=734639520
+
+Frame 51298: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x9ffad7b2 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34600, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51300 13347.264196   140.247.62.34         192.168.15.4          TCP      70     8000 → 34602 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352230854 TSecr=734639525
+
+Frame 51300: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x1dc93a03 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34602, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51302 13347.678580   140.247.62.34         192.168.15.4          TCP      70     8000 → 34598 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352231269 TSecr=734639529
+
+Frame 51302: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x14eb78c4 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34598, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51305 13352.696728   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34600 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352236288 TSecr=734639520
+
+Frame 51305: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xb9517821 [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34600, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51309 13353.202718   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34602 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352236794 TSecr=734639525
+
+Frame 51309: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x4b55cb4f [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34602, Seq: 1, Ack: 2, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+  51311 13353.618844   140.247.62.34         192.168.15.4          TCP      70     [TCP Retransmission] 8000 → 34598 [FIN, ACK] Seq=1 Ack=2 Win=5888 Len=0 TSval=352237209 TSecr=734639529
+
+Frame 51311: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Ethernet II, Src: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60), Dst: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+    Destination: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0xad4df11c [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 140.247.62.34, Dst: 192.168.15.4
+Transmission Control Protocol, Src Port: 8000, Dst Port: 34598, Seq: 1, Ack: 2, Len: 0

@@ -1,0 +1,42 @@
+No.     Time           Source                Destination           Protocol Length Info
+  78967 14995.018158   192.168.15.4          74.125.19.17          HTTP     1345   GET /mail/channel/test?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&MODE=init&zx=7crdr9s8o7qw&it=2531 HTTP/1.1 
+
+Frame 78967: 1345 bytes on wire (10760 bits), 1345 bytes captured (10760 bits)
+Ethernet II, Src: Apple_e2:c0:ce (00:17:f2:e2:c0:ce), Dst: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+    Destination: HonHaiPrecis_2e:4f:60 (00:1d:d9:2e:4f:60)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: Apple_e2:c0:ce (00:17:f2:e2:c0:ce)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 19]
+    Frame check sequence: 0x390103ab [unverified]
+    [FCS Status: Unverified]
+Internet Protocol Version 4, Src: 192.168.15.4, Dst: 74.125.19.17
+Transmission Control Protocol, Src Port: 35804, Dst Port: 80, Seq: 17675, Ack: 173437, Len: 1275
+Hypertext Transfer Protocol
+    GET /mail/channel/test?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&MODE=init&zx=7crdr9s8o7qw&it=2531 HTTP/1.1\r\n
+    Accept: */*\r\n
+    Accept-Language: en-us\r\n
+    Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv\r\n
+    Accept-Encoding: gzip, deflate\r\n
+    User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)\r\n
+    Host: mail.google.com\r\n
+    Connection: Keep-Alive\r\n
+     […]Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1
+        Cookie pair: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we
+        Cookie pair: S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA
+        Cookie pair: GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf
+        Cookie pair: GMAIL_SU=1
+        Cookie pair: gmailchat=jcoachj@gmail.com/475090
+        Cookie pair: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV
+        Cookie pair: NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV
+        Cookie pair: __utmx=173272373.00000983192309928271:2:
+        Cookie pair: __utmxx=173272373.00000983192309928271:1216706401:2592000
+        Cookie pair: SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f
+        Cookie pair: TZ=-60
+        Cookie pair: GMAIL_HELP=hosted:0
+    \r\n
+    [Response in frame: 78971]
+    [Full request URI: http://mail.google.com/mail/channel/test?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&MODE=init&zx=7crdr9s8o7qw&it=2531]
